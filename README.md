@@ -1,4 +1,4 @@
-# AI Resume Builder
+# ResumeCraft - AI powered Resume Builder
 
 ## Project Overview
 
